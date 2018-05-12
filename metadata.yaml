@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1032
     wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18868#With-Kitchener-in-the-Soudan--A-Story-of-Atbara-and-Omdurman
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2006-07-19'
 gutenberg_type: Text
